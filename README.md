@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarilenaSG
 - 👀 I’m interested in learning new technical skills
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data projects
+- 🌱 I’m currently learning frontend development and data analytics, and passionate about marketing.
+- 💞️ I’m looking to collaborate on web develoment projects.
 - 📫 How to reach me HERE
 
 <!---
